@@ -1,11 +1,10 @@
-// import styles from './App.module.css'
-// import { useState } from 'react'
-import {  } from "./components/"
+import styles from './App.module.css'
 
-export default function App() {
+export const App = () => {
+  
   return (
     <>
-    
+gbfgbfgb
     </>
   )
 }
